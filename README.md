@@ -46,7 +46,7 @@ This repository contains implementations of five fundamental quantum algorithms.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quantum-algorithms-notebook.git
+    git clone https://github.com/ArshMalik02/quantum-algorithms-notebook.git
     cd quantum-algorithms-notebook
     ```
 
